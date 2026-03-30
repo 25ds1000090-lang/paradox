@@ -1,0 +1,6 @@
+{
+  "prompt": "A cinematic photograph of a formal garden hedge that is structurally unstable and brittle. The hedge has been hyper-sculpted, perfectly replicating the specific, twisted contours of a complex gnarled oak branch with exactly five acorns and a knot hole. The green leaves are rigid, petrified, and fracturing under their own weight, showing internal structural failure. Muted, overcast light, deep green and brown tones, high-detail texture, no text, no graphs, impossible precision.",
+  "model": "Flux Pro 1.1",
+  "concept": "Overfitting",
+  "metaphor": "A hedge is hyper-sculpted to match one specific, noise-filled example. This perfectly represents a model that has 'memorized' its training data rather than 'generalizing' a broader pattern."
+}
